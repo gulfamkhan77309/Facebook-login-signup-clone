@@ -47,5 +47,5 @@ The layout automatically adjusts for:
 
 ## 🙌 Author
 (Gulfam Khan)
-B.Tech in Computer Science
-Github - https://github.com/gulfamkhan77309
+B.Tech in Computer Science.
+- Github - https://github.com/gulfamkhan77309
